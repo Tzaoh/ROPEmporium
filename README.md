@@ -1,2 +1,3 @@
 # ROPEmporium
-ROPEmporium x64 solutins
+ROPEmporium x64 solutions
+
